@@ -23,7 +23,7 @@ const makeChange = (c) => {
 
   // Remaining cents are all pennies
   change.p = cents;
-
+ 
   return change;
 }
 
